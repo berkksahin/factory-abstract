@@ -1,0 +1,7 @@
+C:\Users\Berk\source\repos\faktory abstract\faktory abstract\bin\Debug\faktory abstract.exe.config
+C:\Users\Berk\source\repos\faktory abstract\faktory abstract\bin\Debug\faktory abstract.exe
+C:\Users\Berk\source\repos\faktory abstract\faktory abstract\bin\Debug\faktory abstract.pdb
+C:\Users\Berk\source\repos\faktory abstract\faktory abstract\obj\Debug\faktory abstract.csproj.AssemblyReference.cache
+C:\Users\Berk\source\repos\faktory abstract\faktory abstract\obj\Debug\faktory abstract.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\faktory abstract\faktory abstract\obj\Debug\faktory abstract.exe
+C:\Users\Berk\source\repos\faktory abstract\faktory abstract\obj\Debug\faktory abstract.pdb
